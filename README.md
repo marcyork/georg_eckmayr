@@ -1,4 +1,4 @@
-# Georg Eckmayr — academic website starter
+# Georg Eckmayr — academic website starter 
 
 A responsive, single-page static website with a black background and white text.
 
